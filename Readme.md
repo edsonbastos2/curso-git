@@ -2,12 +2,15 @@
 
 Este é um repositorio teste para ensinar como o Git funciona
 
-#Ciclo do Git
+# Ciclo do Git
 
-Untracked: Acabou de ser adicionado, mas ainda não foi visto pelo Git.
-Unmodified: Depois que você adiciona o arquivo no git, mas ainda não teve nem
+# Untracked: 
+Acabou de ser adicionado, mas ainda não foi visto pelo Git.
+# Unmodified: 
+Depois que você adiciona o arquivo no git, mas ainda não teve nem
 uma modificação no arquivo.
-Modified: Depois que o arquivo é editado.
+# Modified: 
+Depois que o arquivo é editado.
 Staged: Area onde vai ser criado as versões.
 
 
